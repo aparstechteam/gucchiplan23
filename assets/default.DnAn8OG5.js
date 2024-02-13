@@ -1,0 +1,1 @@
+import{_ as a}from"./plugin-vue_export-helper.DlAUqK2U.js";import{i as s,v as t,x as r,A as n,y as c,X as _}from"./entry.5lG3-hhw.js";const l={},d={class:"p-2"};function f(e,i){const o=s("Navbar");return t(),r("div",null,[n(o),c("div",d,[_(e.$slots,"default")])])}const u=a(l,[["render",f]]);export{u as default};
